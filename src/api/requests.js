@@ -1,4 +1,4 @@
-const API_KEY = '4d8a4a353808b5ad7e70b45d625ccfba'; // <--- PASTE KEY HERE
+const API_KEY = '4d8a4a353808b5ad7e70b4zzzzzz'; // <--- PASTE KEY HERE
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
